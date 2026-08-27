@@ -93,4 +93,4 @@ n8n (workflow orchestration) · Anthropic Claude API (classification, scoring, a
 
 ---
 
-*A related project — an AI-powered guest inquiry triage system with retrieval-based grounded replies — is available in a separate repository.*
+*A related project, an AI-powered guest inquiry triage system with retrieval-based grounded replies, is available here: https://github.com/iason-a/ai-guest-inquiry-triage*
